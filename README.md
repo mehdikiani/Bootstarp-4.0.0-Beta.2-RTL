@@ -1,2 +1,3 @@
-# Bootstarp-4.0-RTL
-Bootstrap RTL for Bootstrap 4.0
+# Bootstarp-4.0.0-beta.2-RTL
+This is a Right to left version of bootstrap 4.0.0-beta.2.
+
